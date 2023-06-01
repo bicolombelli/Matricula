@@ -1,10 +1,38 @@
 table{
     text-align: center;
-    color: rgb(238, 238, 34);
+    color: rgb(24, 24, 21);
 }
-#Cabecalho{
-    color:rgb(219, 200, 54);
+body{
+    background-color: rgb(245, 243, 110);
+    background-image: url(fundo-amarelo-textura-aquarela_1083-163.avif);
+}
+h1{
+    color:rgb(216, 198, 65);
     font-size: 18px;
+    font-weight: 100;
+    text-align: center;
+}
+h2{
+    color:rgb(216, 198, 65);
+    font-size: 18px;
+    font-weight: 100;
+    text-align: center;
+}
+h3{
+    color:rgb(216, 198, 65);
+    font-size: 18px;
+    font-weight: 100;
+    text-align: center;
+}
+h4{
+    color:rgb(20, 20, 17);
+    font-size: 30px;
+    font-weight: 100;
+    text-align: center;
+}
+.grande{
+    color:rgb(19, 18, 16);
+    font-size: 27px;
     font-weight: 100;
     text-align: center;
 }
